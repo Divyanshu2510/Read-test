@@ -1,13 +1,3 @@
-print("Hello wolrd")
-
-
-
-
-
-
-
-
-
-print("Hello wolrd")
-# git branch --set-upstream-to=origin/feature feature
-# 
+a=5
+b=10
+print(a+5)
